@@ -2,7 +2,8 @@ PRODUCT_PACKAGES += \
 	ThemeManager \
 	ThemeChooser \
 	com.tmobile.themes \
-	Androidian
+	Androidian \
+	Cyanbread
 
 PRODUCT_PROPERTY_OVERRIDES += \
 	default_theme.package_name= \
